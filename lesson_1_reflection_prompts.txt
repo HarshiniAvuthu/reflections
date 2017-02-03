@@ -1,0 +1,36 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    using git diff lists out the changes/bugs between the two files. This actually saves the user time. and +, - symbols are really helpful.
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    There may be times where we don't know what the error is and in such cases if we have access to the whole history then we can fix the bug easily.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros in manually choosing the commit is it would automatically save the file in regular intervels.
+    The cons are that if time is too lengthy and changes are frequently made then we actually dont have advantage of having the history and in other case if we choose a short period of time and made changes very rearly then lots of memory is wasted storing the same data.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    saving multiple files in one commit help in cases where our project is done in more than 2 files and if changes made in one file reflect in the other file it would really help us.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    'git log' and it will list out the commits saved till that point in a proper format.
+    'git diff file1 file2' would compare the two files and displays the changes made between them.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I could be confident because it would save all my files after every commit and that would really save lots of time.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	
+	For version controlling all my files in the future projects.
